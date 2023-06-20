@@ -5,8 +5,9 @@ I'm a Frontend Developer
 **About me**
 - 😎 I love working with TypeScript and Dart
 - 💼 FrontEnd Engineer at [dgti](https://dgti.co.id/)
-- 💬 Reach me [here](https://www.linkedin.com/in/iikmoh)
-- 📪 Email me [hikmat.iqbal@gmail.com](mailto:hikmat.iqbal@gmail.com)
+- 🌐 Visit my [homepage](https://iikmoh.github.io)
+- 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/iikmoh)
+- 📪 Email at [hikmat.iqbal@gmail.com](mailto:hikmat.iqbal@gmail.com)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iikmoh&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
