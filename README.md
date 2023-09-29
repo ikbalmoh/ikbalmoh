@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm a Frontend Developer
+I'm a Frontend Web & Mobile App Developer
 
 **About me**
-- 😎 I love working with TypeScript and Dart
 - 💼 FrontEnd Engineer at [dgti](https://dgti.co.id/)
 - 🌐 Visit my [homepage](https://ikbalmoh.github.io)
 - 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/ikbalmoh)
-- 📪 Email at [hikmat.iqbal@gmail.com](mailto:hikmat.iqbal@gmail.com)
+- 📪 Send me email at [hikmat.iqbal@gmail.com](mailto:hikmat.iqbal@gmail.com)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikbalmoh&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
