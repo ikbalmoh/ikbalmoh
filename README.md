@@ -4,9 +4,9 @@ I'm a Frontend Web & Mobile App Developer
 
 **About me**
 - 💼 FrontEnd Engineer at [dgti](https://dgti.co.id/)
-- 🌐 Visit my [homepage](https://ikbalmoh.github.io)
+- 🌐 Visit my [homepage](https://ikbalmoh.dev)
 - 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/ikbalmoh)
-- 📪 Send me email at [hikmat.iqbal@gmail.com](mailto:hikmat.iqbal@gmail.com)
+- 📪 Send me email at [hikmat.iqbal@gmail.com](mailto:ikbalmoh.dev@gmail.com)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ikbalmoh&hide_border=true&fire=DD2727)](https://git.io/streak-stats)
 
